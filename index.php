@@ -18,6 +18,7 @@ get_header();
 ?>
 
 <main id="site-content" role="main">
+<div>hoge</div>
 
 	<?php
 
