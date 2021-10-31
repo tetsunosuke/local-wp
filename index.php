@@ -18,7 +18,7 @@ get_header();
 ?>
 
 <main id="site-content" role="main">
-<div>hogefugapiyp</div>
+<div>hogefugapiyo-test</div>
 
 	<?php
 
